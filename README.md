@@ -21,11 +21,4 @@ python infogather.py
 Simply run the script and follow the interactive menu!
 ⚠️ Disclaimer
 This tool is for educational purposes only. Use responsibly and legally.
-📄 License
-MIT License
-Then:
-```bash
-git add README.md
-git commit -m "Update README"
-git push
 That's it! 🎉
