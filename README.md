@@ -19,7 +19,4 @@ git clone https://github.com/Bless419/Infoga-Tool.git
 cd infogather
 python infogather.py
 🚀 Usage
-Simply run the script and follow the interactive menu!
-⚠️ Disclaimer
-This tool is for educational purposes only. Use responsibly and legally.
-That's it! 🎉
+python infogather.py
