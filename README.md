@@ -2,6 +2,7 @@
 **Information Gathering Tool for Termux**
 
 Created by **Agent Security**
+Author: Wayo
 
 ## 🎯 Features
 - 📱 Phone Number Lookup (with Numverify API)
@@ -14,7 +15,7 @@ Created by **Agent Security**
 pkg update && pkg upgrade
 pkg install python git
 pip install requests
-git clone https://github.com/YOUR_USERNAME/infogather.git
+git clone https://github.com/Bless419/Infoga-Tool.git
 cd infogather
 python infogather.py
 🚀 Usage
